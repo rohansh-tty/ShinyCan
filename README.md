@@ -1,7 +1,8 @@
-## SHINYCAN - METAL CAN DETECTOR USING YOLOV3
+## ShinyCan - Metal Can Detector Using YoLoV3
 
 ![Repo Link](https://github.com/Gilf641/YoloV3)
 
+![Video Link](https://youtu.be/q7YoVXQXQak)
 
 ![Notebook_Link](https://github.com/Gilf641/ShinyCan/blob/master/main.ipynb)
 
