@@ -3,7 +3,7 @@
 ![Repo Link](https://github.com/Gilf641/YoloV3)
 
 
-![Notebook_Link](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-B/S13%20Assignment-B.ipynb)
+![Notebook_Link](https://github.com/Gilf641/ShinyCan/blob/master/main.ipynb)
 
 ---------
 
@@ -13,7 +13,7 @@ Waste Segregator Robo, which classifies and seperates Recyclable, Non Recyclable
 For example I have collected/got dataset from few GitHub repos and planning to build this project.
 
 * **IMPLEMENTATION**
->(Check ![this Colab Notebook](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-B/S13%20Assignment-B.ipynb) for Step-By-Step Process.)
+>(Check ![this Colab Notebook](https://github.com/Gilf641/ShinyCan/blob/master/main.ipynb) for Step-By-Step Process.)
 1. I have Metal Cans as my class. Dataset includes Metal Cans, Caps, Aluminium Foils etc. Collected around 300-400 Images from this repo, rest from the Internet.
 2. Used ![this](https://github.com/miki998/YoloV3_Annotation_Tool) for Annotation.
 3. Ran for 110 Epochs. 
@@ -26,12 +26,12 @@ For example I have collected/got dataset from few GitHub repos and planning to b
 ![](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-B/Images/train_batch0.png)
 
 **2. Test Data**
-![](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-B/Images/test_batch0.png)
+![](https://github.com/Gilf641/ShinyCan/blob/master/Images/test_batch0.png)
 
 
 **RESULTS**
 
-![](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-B/Images/Output.jpg)
+![](https://github.com/Gilf641/ShinyCan/blob/master/Images/Output.jpg)
 
 
 # Model Logs
