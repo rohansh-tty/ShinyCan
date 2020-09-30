@@ -1,50 +1,5 @@
-# S13 Assignment
+## SHINYCAN - METAL CAN DETECTOR USING YOLOV3
 
-**Yolo 2 & 3**
-
-
-Assignment Task: 
-
-    OpenCV Yolo: SOURCE (Links to an external site.)
-        Run this above code on your laptop or Colab. 
-        Take an image of yourself, holding another object which is there in COCO data set (search for COCO classes to learn). 
-        Run this image through the code above. 
-        Upload the link to GitHub implementation of this
-        Upload the annotated image by YOLO. 
-    Training Custom Dataset on Colab for YoloV3
-        Refer to this Colab File: LINK (Links to an external site.)
-        Refer to this GitHub Repo (Links to an external site.)
-        Collect a dataset of 500 images and annotate them. Please select a class for which you can find a YouTube video as well. Steps are explained in the readme.md file on GitHub.
-        Once done:
-            Download (Links to an external site.) a very small (~10-30sec) video from youtube which shows your class. 
-            Use ffmpeg (Links to an external site.) to extract frames from the video. 
-            Upload on your drive (alternatively you could be doing all of this on your drive to save upload time)
-            Inter on these images using detect.py file. **Modify** detect.py file if your file names do not match the ones mentioned on GitHub. 
-            `python detect.py --conf-thres 0.3 --output output_folder_name`
-            Use ffmpeg (Links to an external site.) to convert the files in your output folder to video
-            Upload the video to YouTube. 
-        Share the link to your GitHub project with the steps as mentioned above
-        Share the link of your YouTube video
-        Share the link of your YouTube video on LinkedIn, Instagram, etc! You have no idea how much you'd love people complimenting you! 
-
-# ASSIGNMENT A
-![Notebook Link](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-A/S13%20Assignment-A.ipynb)
-
-
-* **IMPLEMENTATION**
-1. Ran the OpenCV-Yolo Colab Notebook
-2. Uploaded a couple of images with me holding a some COCO Objects and tested the same
-
-
-* Sample Image
-
-![](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-A/Images/OpenCV-Yolo1.png)
-
-
-
-
-
-# ASSIGNMENT B
 ![Repo Link](https://github.com/Gilf641/YoloV3)
 
 
@@ -59,7 +14,7 @@ For example I have collected/got dataset from few GitHub repos and planning to b
 
 * **IMPLEMENTATION**
 >(Check ![this Colab Notebook](https://github.com/Gilf641/EVA4/blob/master/S13/Assignment-B/S13%20Assignment-B.ipynb) for Step-By-Step Process.)
-1. For S13 B, I have Metal Cans as my class. Dataset includes Metal Cans, Caps, Aluminium Foils etc. Collected around 300-400 Images from this repo, rest from the Internet.
+1. I have Metal Cans as my class. Dataset includes Metal Cans, Caps, Aluminium Foils etc. Collected around 300-400 Images from this repo, rest from the Internet.
 2. Used ![this](https://github.com/miki998/YoloV3_Annotation_Tool) for Annotation.
 3. Ran for 110 Epochs. 
 
